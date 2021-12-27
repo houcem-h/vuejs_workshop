@@ -1,7 +1,8 @@
 <template>
   <div class="home">
-    <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
-    <ContactList/>
+    <!-- <ContactList/> -->
+    <!-- or -->
+    <contact-list></contact-list>
   </div>
 </template>
 
